@@ -1,2 +1,2 @@
 # erlang_book
-practice
+calculator written in erlang for practice purpose
